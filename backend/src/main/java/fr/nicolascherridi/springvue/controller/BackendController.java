@@ -65,7 +65,7 @@ public class BackendController {
     public @ResponseBody
     String editTask (@PathVariable("id") long id, @RequestBody Task task) throws IOException {
         Task oldTask = taskRepository.findById(id);
-        oldTask.setAuthor(task.getDescription());
+        oldTask.setAuthor(task.getAuthor());
         oldTask.setDescription(task.getDescription());
         oldTask.setDuration(task.getDuration());
         taskRepository.save(oldTask);
