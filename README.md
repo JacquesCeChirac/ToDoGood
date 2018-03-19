@@ -1,9 +1,10 @@
 # ToDoGood
 
+![alt text](https://raw.githubusercontent.com/JacquesCeChirac/ToDoGood/master/frontend/src/assets/task_scheduling.png)
+
 ## Prérequis
 
 Node, Java8, Tomcat8 & Mysql
-
 
 ## Installation / run du projet :
 
