@@ -43,7 +43,7 @@ SpringVue
 
 ## Screens
 
-2 images et une vidéo dans le dossier /screens
+2 images et 1 vidéo dans le dossier /screens
 
-![alt text](https://github.com/JacquesCeChirac/screens/ToDoGood/todogood.png)
-![alt text](https://github.com/JacquesCeChirac/screens/ToDoGood/todogood-modification.png)
+![alt text](https://raw.githubusercontent.com/JacquesCeChirac/ToDoGood/master/screens/TodoGood.png)
+![alt text](https://raw.githubusercontent.com/JacquesCeChirac/ToDoGood/master/screens/Todogood-modification.png)
